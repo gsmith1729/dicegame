@@ -13,5 +13,5 @@ for i in range(0,repeats):
     else:
         losses+=1
     
-
 outcome=wins/(wins+losses)
+print(outcome)
